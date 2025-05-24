@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinkLibrary", "DrinkLibrar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionApp", "ReflectionApp\ReflectionApp.csproj", "{645E9F17-482B-4F8A-93EB-2A7CD3032BE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB1", "ReflectionApp\LAB1.csproj", "{645E9F17-482B-4F8A-93EB-2A7CD3032BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinkSerializationApp", "DrinkSerializationApp\DrinkSerializationApp.csproj", "{E8A3A93E-28B1-4432-8CD7-255062DF5608}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2", "DrinkSerializationApp\LAB2.csproj", "{E8A3A93E-28B1-4432-8CD7-255062DF5608}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinkMultithreadingApp", "DrinkMultithreadingApp\DrinkMultithreadingApp.csproj", "{A68F84E3-45AF-4966-AE7D-53B11F6DA372}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB3", "DrinkMultithreadingApp\LAB3.csproj", "{A68F84E3-45AF-4966-AE7D-53B11F6DA372}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
